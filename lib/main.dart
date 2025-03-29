@@ -29,7 +29,7 @@ class _PortfolioAppState extends State<PortfolioApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'My Portfolio',
+      title: 'Santiago Ducos - Portfolio',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.from(
         colorScheme: MaterialTheme.lightScheme(),
@@ -96,7 +96,7 @@ class PortfolioHome extends StatelessWidget {
                         constraints: const BoxConstraints(maxWidth: 600),
                         child: const SelectableText(
                           'I am a passionate Flutter developer creating beautiful '
-                          'and responsive web experiences. Welcome to my portfolio!',
+                          'and responsive experiences. Welcome to my portfolio!',
                           textAlign: TextAlign.center,
                           style: TextStyle(fontSize: 18),
                         ),
