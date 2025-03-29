@@ -19,3 +19,9 @@ fvm dart run build_runner build
 ```
 fvm flutter build web
 ```
+
+### Deploy in Firebase
+
+```
+firebase deploy
+```
