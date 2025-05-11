@@ -186,22 +186,13 @@ class PortfolioHome extends StatelessWidget {
                               websiteUrl: 'https://foxsys.com/',
                             ),
                             ProjectCard(
-                              title: 'Real-time Audio Bot',
-                              tech: 'Python, Azure, OpenAI',
-                              stores: 'YouTube Demo',
-                              description:
-                                  'A voice-driven assistant that automates operator tasks such as opening doors through natural language interaction.',
-                              websiteUrl:
-                                  'https://youtube.com/shorts/5DbDEfL3TsI?feature=share',
-                            ),
-                            ProjectCard(
-                              title: 'UBILD & UBILD Crew',
+                              title: 'UBILD',
                               tech: 'React Native, Laravel',
                               stores: 'Internal Distribution',
                               description:
                                   'A platform for construction companies to manage job postings, match workers, and streamline team communications.',
                               websiteUrl:
-                                  'https://www.instagram.com/p/DEnQ7uzCpbQ/',
+                                  'https://ubildapp.com',
                             ),
                             ProjectCard(
                               title: 'Altavista',
